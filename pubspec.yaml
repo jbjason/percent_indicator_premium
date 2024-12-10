@@ -1,7 +1,7 @@
 name: percent_indicator_premium
 description: "A customizable and feature-rich package for displaying progress indicators in your Flutter applications."
-repository: "https://github.com/jbjason/percent_indicator_premium/tree/main"
-version: 0.0.1
+repository: "https://github.com/jbjason/percent_indicator_premium"
+version: 0.0.2
 
 environment:
   sdk: ^3.5.3
