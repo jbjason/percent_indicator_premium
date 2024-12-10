@@ -1,7 +1,7 @@
 name: percent_indicator_premium
-description: "A new Flutter project."
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
-version: 1.0.0+1
+description: "A customizable and feature-rich package for displaying progress indicators in your Flutter applications."
+repository: "https://github.com/jbjason/percent_indicator_premium/tree/main"
+version: 0.0.1
 
 environment:
   sdk: ^3.5.3
