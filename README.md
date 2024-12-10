@@ -1,6 +1,6 @@
 # percent_indicator_premium
  
-<img width=30% height=14% src="">  
+<img width=30% height=14% src="https://github.com/user-attachments/assets/27088968-c45f-4915-b723-861c8dfa8fd7">  
 This is a simple yet highly customizable package for all kind of users.
 
 ## Features
