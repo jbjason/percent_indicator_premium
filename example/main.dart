@@ -14,19 +14,18 @@ class MyApp extends StatelessWidget {
       title: 'Percent Indicator Premium',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.light(),
-      home: const LoadingPercentScreen(),
+      home: const Home(),
     );
   }
 }
 
-class LoadingPercentScreen extends StatefulWidget {
-  const LoadingPercentScreen({super.key});
+class Home extends StatefulWidget {
+  const Home({super.key});
   @override
-  State<LoadingPercentScreen> createState() => _LoadingPercentScreenState();
+  State<Home> createState() => _HomeState();
 }
 
-class _LoadingPercentScreenState extends State<LoadingPercentScreen>
-    with SingleTickerProviderStateMixin {
+class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
   late AnimationController _controller;
 
   @override
