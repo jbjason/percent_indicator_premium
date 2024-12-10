@@ -36,7 +36,7 @@ HorizontalPercentIndicator(
     this.activeTrackColor = const [MyColor.skyPrimary, MyColor.skySecondary],
 ),
 ```
-### Square percent indicator
+### Vertical percent indicator
 ```dart
 VerticalPercentIndicator(
     this.height = 120,
@@ -49,7 +49,7 @@ VerticalPercentIndicator(
 ),
 ```
 
-### Square percent indicator
+### Circular percent indicator
 ```dart
 CircularPercentIndicator(
     this.height = 150,
